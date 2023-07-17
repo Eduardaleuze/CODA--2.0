@@ -155,7 +155,7 @@ function checkLogged() {
 
         }
 
-    }
+    } 
 
     function getTotal() {
         const transactions = data.transactions;
